@@ -1,0 +1,93 @@
+body{width:720px;
+    padding:54px;
+    border-left: 6px solid #dd0000;
+    font-family:"Lato";
+    line-height: 1.5;
+    color: #444444;}
+
+h2{color: black;
+font-weight:normal;
+margin-top:0;}
+
+h1{color: red;
+font-weight:normal;
+margin-bottom:1;}
+
+h5{text-align:right;}
+
+.continue-link{color:#DD0000;
+}
+.continue-link:hover{color:#aa0000;}
+
+.header-nav-link{
+    margin:10px;
+    color:#dddddd;}
+.header-nav-link:hover{color:black;}
+
+article{border-bottom:1px solid #dddddd;
+    margin-bottom:40px;}
+
+.article-date{
+     color:#cccccc;
+     font-weight:normal;
+     margin-bottom:0;
+ }   
+.article-title{color:black;
+font-weight:normal;
+font-size:32px;
+margin-bottom:5px;
+margin-top:0;}
+
+
+.footer-nav-link{
+    margin:10px;
+    color:#dddddd;}
+.footer-nav-link:hover{color:black;}
+
+footer{color:#bbbbbb;
+margin-top:20px;}
+
+
+
+
+
+/* 
+Complete the self-piloting skateboard blog from the attached screenshot. Take a look at the copy.txt for what to plug into the HTML.
+
+Some values you will also need:
+
+Content:
+    720px wide
+    54px of padding
+    solid, left, 6px, border, #dd0000
+
+High-level text properties:
+    #444444
+    "Lato" font
+    1.5 line-height
+
+"Self-piloting Skateboards":
+    black
+
+Links:
+    #DD0000
+
+Links hover:
+    #aa0000
+
+Navigation links:
+    #dddddd
+
+Navigation links hover:
+    black
+
+Date: 
+    #cccccc
+
+Article Title
+    black
+
+Copyright
+    #bbbbbb
+
+If we were working with a real design document, you would be able to get the precise pixel values for line height, font size, margin, padding, etc. Just approximate as best you can.*/
